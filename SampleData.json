@@ -1,0 +1,58 @@
+[
+	{
+		"News Article Link": "https://esgnews.com/google-expands-amazon-reforestation-partnership-with-mombak-to-deepen-carbon-removal-portfolio/",
+		"News Headline": "Google Expands Amazon Reforestation Partnership with Mombak to Deepen Carbon Removal Portfolio",
+		"Sentence": "Mombak's model centers on active restoration, converting degraded cattle pastures back into rainforest.",
+		"Topics of Claim": "Biodiversity",
+		"Topic Sentiment": 1.0,
+		"Label": 1
+	},
+	{
+		"News Article Link": "https://esgnews.com/isometric-certifies-new-improved-forest-management-protocol-for-nature-based-carbon-removal/",
+		"News Headline": "Isometric Certifies New Improved Forest Management Protocol for Nature Based Carbon Removal",
+		"Sentence": "The protocol contributes to an evolving architecture of voluntary standards that interact with emerging mandatory nature and climate disclosure frameworks.",
+		"Topics of Claim": "Compliance & Legal Actions",
+		"Topic Sentiment": 0.7,
+		"Label": 1
+	},
+	{
+		"News Article Link": "https://esgnews.com/iso-launches-worlds-first-biodiversity-standard-to-guide-corporate-action/",
+		"News Headline": "ISO Launches World's First Biodiversity Standard to Guide Corporate Action",
+		"Sentence": "Biodiversity is declining faster than at any time in human history.",
+		"Topics of Claim": "Biodiversity",
+		"Topic Sentiment": -0.8,
+		"Label": 0
+	},
+	{
+		"News Article Link": "https://esgnews.com/creative-tech-textile-seawool-opening-new-horizons-for-sustainable-fashion/",
+		"News Headline": "Creative Tech Textile Seawool Opening New Horizons for Sustainable Fashion",
+		"Sentence": "Seawool promotes ecological conservation by reducing waste and using recycled materials",
+		"Topics of Claim": "Biodiversity",
+		"Topic Sentiment": 1.0,
+		"Label": 0
+	},
+	{
+		"News Article Link": "https://esgnews.com/taiwan-aligns-bond-rules-with-global-standards-for-blue-and-biodiversity-finance/",
+		"News Headline": "Taiwan Aligns Bond Rules With Global Standards for Blue and Biodiversity Finance",
+		"Sentence": "Taiwan's sustainable bond regime includes biodiversity protection as an eligible category for green bond financing.",
+		"Topics of Claim": "Biodiversity",
+		"Topic Sentiment": 0.8,
+		"Label": 1
+	},
+	{
+		"News Article Link": "https://esgnews.com/apple-achieves-over-60-reduction-in-global-ghg-emissions/",
+		"News Headline": "Apple Achieves Over 60% Reduction in Global GHG Emissions",
+		"Sentence": "Apple supported energy efficiency initiatives helped avoid another 2 million tonnes of emissions in 2024",
+		"Topics of Claim": "Energy",
+		"Topic Sentiment": 1.0,
+		"Label": 1
+	},
+	{
+		"News Article Link": "https://esgnews.com/swen-capital-partners-raises-e168m-first-close-for-worlds-largest-ocean-impact-venture-fund/",
+		"News Headline": "SWEN Capital Partners Raises €160M First Close for World's Largest Ocean Impact Venture Fund",
+		"Sentence": "The Swen Blue Ocean 2 fund aims to regenerate ocean biodiversity by combating overfishing, pollution, and climate change.",
+		"Topics of Claim": "Biodiversity",
+		"Topic Sentiment": 1.0,
+		"Label": 1
+	}
+]
