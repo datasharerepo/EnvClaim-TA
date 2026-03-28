@@ -16,3 +16,5 @@ Topics of Claim: Topics present in Claim sentence
 Topic Sentiment: Sentiment of Topics
 
 Label: Classification of sentence
+
+Sample Data available in SampleData.json
